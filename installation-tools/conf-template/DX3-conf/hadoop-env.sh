@@ -10,7 +10,7 @@
 [ -n "$HADOOP_ENV_INTEPRETED" ] && return
 export HADOOP_ENV_INTEPRETED=1
 
-export JAVA_HOME=/usr/java/jdk1.7.0_45-cloudera
+export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk.x86_64
 
 # Extra Java CLASSPATH elements.  Optional.
 # export HADOOP_CLASSPATH="<extra_entries>:$HADOOP_CLASSPATH"
