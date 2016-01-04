@@ -1,0 +1,8 @@
+<DOC>
+id=1
+name=a
+</DOC>
+<DOC>
+id=2
+name=b
+</DOC>
