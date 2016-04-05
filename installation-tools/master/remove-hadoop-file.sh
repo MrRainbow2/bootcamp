@@ -1,2 +1,2 @@
-rm -rf /mnt/dfs_data /mnt/dfs_name /mnt/mapred_local /mnt/nm_local /mnt/dfs_secondname
+rm -rf /data/dfs_data /data/dfs_name /data/mapred_local /data/nm_local /data/dfs_secondname
 rm -rf /var/lib/zookeeper
